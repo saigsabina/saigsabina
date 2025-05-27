@@ -30,15 +30,6 @@
 ## 🙋‍♂️ About Me
 
 - 🚀 **Education:** УГНТУ*
-
----
-
-<!-- Skills Header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🛠️-Skills-blue?style=for-the-badge" alt="Skills">
-</p>
-
-### **Skills**
 - **Languages:** Ru,Eng,Tat
 - **Hobby:** Cкалолазанье, Готовка
 
