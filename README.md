@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/🛠️-Skills-blue?style=for-the-badge" alt="Skills">
 </p>
 
-### 🛠️ **Skills**
-- **Languages:** Python,C++
+### **Skills**
+- **Languages:** Ru,Eng,Tat
 - **Hobby:** Cкалолазанье, Готовка
 
 ---
